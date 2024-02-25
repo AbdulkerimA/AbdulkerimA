@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdulkerim
-- 👀 I’m interested in fullstack web dev
-- 🌱 I’m currently learning html,css and javascript
-- 💞️ I’m looking to collaborate on any web develeopment project
+- 👀 I’m interested in full-stack web dev
+- 🌱 I’m currently learning React JS
+- 💞️ I’m looking to collaborate on any web development project
 - 📫 How to reach me @programer_abdu on telegram and abdulkerimademrcdf@gmail.com 
 
 <!---
